@@ -334,7 +334,7 @@
     "//private/extensions:java.bzl%java": {
       "general": {
         "bzlTransitiveDigest": "IEWo5+2r+CRGVEQzGYauw8Z35hPdftav0DzwQuaMdYE=",
-        "usagesDigest": "+vfFR+94dRWwc2fWZooE3Eng8cusxkeD7h1qO5np610=",
+        "usagesDigest": "L8Cper5aoPMeD693R48+7sw6HAy+NVu2N4oTfdSoK+E=",
         "recordedFileInputs": {},
         "recordedDirentsInputs": {},
         "envVariables": {},
@@ -344,13 +344,13 @@
             "ruleClassName": "temurin_archive",
             "attributes": {
               "urls": [
-                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz"
+                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_x64_linux_hotspot_21.0.12.1_1.tar.gz"
               ],
-              "sha256": "991be6ac6725e76109ecbd131d658f992dcbeacba3a8b4b6650302c8012b52fb",
-              "strip_prefix": "jdk-21.0.10+7-jre",
+              "sha256": "2413149700df0f7d440500a84a8f764c535f21e5a5e87d38328b64eec2c5b500",
+              "strip_prefix": "jdk-21.0.12.1+1-jre",
               "package_name": "temurin",
-              "version": "21.0.10+7",
-              "plain_version": "21.0.10",
+              "version": "21.0.12.1+1",
+              "plain_version": "21.0.12",
               "architecture": "amd64",
               "control": "@@//java:control"
             }
@@ -360,13 +360,13 @@
             "ruleClassName": "temurin_archive",
             "attributes": {
               "urls": [
-                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk_x64_linux_hotspot_21.0.10_7.tar.gz"
+                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk_x64_linux_hotspot_21.0.12.1_1.tar.gz"
               ],
-              "sha256": "ea3b9bd464d6dd253e9a7accf59f7ccd2a36e4aa69640b7251e3370caef896a4",
-              "strip_prefix": "jdk-21.0.10+7",
+              "sha256": "ce79869e1307ed8ee1e2baa86a412b1eb5b75d10a01006d788a6f968bcfaee94",
+              "strip_prefix": "jdk-21.0.12.1+1",
               "package_name": "temurin",
-              "version": "21.0.10+7",
-              "plain_version": "21.0.10",
+              "version": "21.0.12.1+1",
+              "plain_version": "21.0.12",
               "architecture": "amd64",
               "control": "@@//java:control"
             }
@@ -376,13 +376,13 @@
             "ruleClassName": "temurin_archive",
             "attributes": {
               "urls": [
-                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.10_7.tar.gz"
+                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.12.1_1.tar.gz"
               ],
-              "sha256": "3ca84da7c4f57eee8d7e7f0645dc904a3a06456d32b37a4dd57a5e7527245250",
-              "strip_prefix": "jdk-21.0.10+7-jre",
+              "sha256": "14be1f35ebdbd1f6e8d57eb911a3ffb74d6d9aa255abc5daf2b1302002cf2cf2",
+              "strip_prefix": "jdk-21.0.12.1+1-jre",
               "package_name": "temurin",
-              "version": "21.0.10+7",
-              "plain_version": "21.0.10",
+              "version": "21.0.12.1+1",
+              "plain_version": "21.0.12",
               "architecture": "arm64",
               "control": "@@//java:control"
             }
@@ -392,13 +392,13 @@
             "ruleClassName": "temurin_archive",
             "attributes": {
               "urls": [
-                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.10_7.tar.gz"
+                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.12.1_1.tar.gz"
               ],
-              "sha256": "357fee29fb0d5c079f6730db98b28942df13a6eed426f6c61cd4ad703ab27b9a",
-              "strip_prefix": "jdk-21.0.10+7",
+              "sha256": "23e37e026f12f3e706f18938ff611db3032d075b09d0879a25d06718c773e223",
+              "strip_prefix": "jdk-21.0.12.1+1",
               "package_name": "temurin",
-              "version": "21.0.10+7",
-              "plain_version": "21.0.10",
+              "version": "21.0.12.1+1",
+              "plain_version": "21.0.12",
               "architecture": "arm64",
               "control": "@@//java:control"
             }
@@ -408,13 +408,13 @@
             "ruleClassName": "temurin_archive",
             "attributes": {
               "urls": [
-                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.10_7.tar.gz"
+                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12.1_1.tar.gz"
               ],
-              "sha256": "48f8529714c90c6cc61aa729cf8952f2fc47f2f2890551ba7f9e1c061b04be13",
-              "strip_prefix": "jdk-21.0.10+7-jre",
+              "sha256": "df43dc82a935868915a4b76227e2c63ffeb32868b608980dc67312a3d6217e1e",
+              "strip_prefix": "jdk-21.0.12.1+1-jre",
               "package_name": "temurin",
-              "version": "21.0.10+7",
-              "plain_version": "21.0.10",
+              "version": "21.0.12.1+1",
+              "plain_version": "21.0.12",
               "architecture": "s390x",
               "control": "@@//java:control"
             }
@@ -424,13 +424,13 @@
             "ruleClassName": "temurin_archive",
             "attributes": {
               "urls": [
-                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.10_7.tar.gz"
+                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.12.1_1.tar.gz"
               ],
-              "sha256": "eabb069b59a2e6b9e9926d9c533186aabf1ff3b4af683d0a3620bb7c7d9770c0",
-              "strip_prefix": "jdk-21.0.10+7",
+              "sha256": "806bb29b0d408eb6312cda0a1e756bc91e554ef9ed6a5863f6004e502f6c789a",
+              "strip_prefix": "jdk-21.0.12.1+1",
               "package_name": "temurin",
-              "version": "21.0.10+7",
-              "plain_version": "21.0.10",
+              "version": "21.0.12.1+1",
+              "plain_version": "21.0.12",
               "architecture": "s390x",
               "control": "@@//java:control"
             }
@@ -440,13 +440,13 @@
             "ruleClassName": "temurin_archive",
             "attributes": {
               "urls": [
-                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.10_7.tar.gz"
+                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.12.1_1.tar.gz"
               ],
-              "sha256": "1a49cffcb348a28c017cf0deeb9322b7296dbfb002a8e43bd7f65ad671e10eb7",
-              "strip_prefix": "jdk-21.0.10+7-jre",
+              "sha256": "d2f07f1d97faab23b3add1af92db402b721b5b251cedab7144fdd4b2bf2e2f13",
+              "strip_prefix": "jdk-21.0.12.1+1-jre",
               "package_name": "temurin",
-              "version": "21.0.10+7",
-              "plain_version": "21.0.10",
+              "version": "21.0.12.1+1",
+              "plain_version": "21.0.12",
               "architecture": "ppc64le",
               "control": "@@//java:control"
             }
@@ -456,13 +456,13 @@
             "ruleClassName": "temurin_archive",
             "attributes": {
               "urls": [
-                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.10_7.tar.gz"
+                "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.12.1_1.tar.gz"
               ],
-              "sha256": "33bdaec351f40cc70d44e251a54c23e4dd15fed8adc041e35c57461c706cf948",
-              "strip_prefix": "jdk-21.0.10+7",
+              "sha256": "042482fa372f12741ceb721397e277b4e69672182aaa45a1bf7af55d9ba876d6",
+              "strip_prefix": "jdk-21.0.12.1+1",
               "package_name": "temurin",
-              "version": "21.0.10+7",
-              "plain_version": "21.0.10",
+              "version": "21.0.12.1+1",
+              "plain_version": "21.0.12",
               "architecture": "ppc64le",
               "control": "@@//java:control"
             }
@@ -472,14 +472,14 @@
             "ruleClassName": "version_repo",
             "attributes": {
               "versions": {
-                "temurin21_jre_amd64": "21.0.10",
-                "temurin21_jdk_amd64": "21.0.10",
-                "temurin21_jre_arm64": "21.0.10",
-                "temurin21_jdk_arm64": "21.0.10",
-                "temurin21_jre_s390x": "21.0.10",
-                "temurin21_jdk_s390x": "21.0.10",
-                "temurin21_jre_ppc64le": "21.0.10",
-                "temurin21_jdk_ppc64le": "21.0.10"
+                "temurin21_jre_amd64": "21.0.12",
+                "temurin21_jdk_amd64": "21.0.12",
+                "temurin21_jre_arm64": "21.0.12",
+                "temurin21_jdk_arm64": "21.0.12",
+                "temurin21_jre_s390x": "21.0.12",
+                "temurin21_jdk_s390x": "21.0.12",
+                "temurin21_jre_ppc64le": "21.0.12",
+                "temurin21_jdk_ppc64le": "21.0.12"
               }
             }
           }
